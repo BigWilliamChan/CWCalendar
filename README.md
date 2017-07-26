@@ -26,10 +26,11 @@ class CalendarCell: UITableViewCell {
 ```
 
 or just creast a class ```CalendarView```
+
 Screenshots
 -----------
 
-<img src="">
+<img src="https://github.com/BigWilliamChan/CWCalendar/blob/master/Screenshots.gif?raw=true">
 
 
 License
