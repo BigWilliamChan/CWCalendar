@@ -8,6 +8,7 @@ This is an calendar control in swift3 .
 
 Because it requires strong customization, it does not support pods or carthage.You can donwload the code, use it and edit the code.
 
+The project contains the calendar icon with Sketch file。
 
 Features
 --------
